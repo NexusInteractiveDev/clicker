@@ -962,7 +962,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 87f236aeddefa934aadab311e2f4ff59, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  serverURI: https://example.com/highscore/
+  serverURI: https://t.me/nxiprotobot/NXIproto
   SCORE_TOKEN: a386010000000000b386010000000000cb86010000000000d186010000000000d986010000000000e58601000000000007870100000000000d870100000000002187010000000000
 --- !u!4 &1792046812
 Transform:
