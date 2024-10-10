@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/Scene_TelegramExample.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/_Scenes/Clicker.unity
+    guid: b959c74f9f7007b4b8f31f48dd3a446f
   m_configObjects: {}
